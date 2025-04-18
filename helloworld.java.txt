@@ -1,0 +1,7 @@
+class learnwithme{
+	public static void main(string arg[])
+	{
+
+	system.out.println(sowji_tech");
+	}
+}
